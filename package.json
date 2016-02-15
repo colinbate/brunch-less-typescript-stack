@@ -1,6 +1,6 @@
 {
   "name": "brunch-less-typescript-stack",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Dev dependency stack with Brunch supporting LESS and TypeScript.",
   "main": "index.js",
   "scripts": {
@@ -34,6 +34,7 @@
     "javascript-brunch": "^2.0.0",
     "less-brunch": "^2.0.0",
     "tslint": "^3.3.0",
+    "typescript": "1.7.5",
     "uglify-js-brunch": "^2.0.1"
   }
 }
